@@ -7,3 +7,5 @@ Mobile Layout:
 Desktop layout:
 
 ![image](https://user-images.githubusercontent.com/90981527/211452929-58185450-4630-4eba-9fd2-c9c96780fba6.png)
+
+Live site preview: https://gusrod22.github.io/four-card-section/
